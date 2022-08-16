@@ -24,21 +24,90 @@ body{
     color: white;
     padding: 15px 20px;
 }
+.gg1{
+    text-align: center;
+    font-size: 70px;
+}
+h2{
+    text-align: center;
+    color: orange;
+    margin-top: -3%;
+}
 .rr{
     border: 2px solid orange;
 }
-h1{
-    text-align: center;
-    font-size: 74px;
+.coat{
+    background-color: orange;
+    border: none;
+    padding: 15px 19px;
+    font-size: 20px;
+    color: white;
+    border-radius: 7px;
+    position: relative;
+    cursor: pointer;
+    left: 43%;
 }
-.body{
+.coat:hover{
+    background-color: orangered;
+}
+.coat2{
     background-color: white;
+    display: block;
+    height: 500px;
+    margin-top: 10%;
+    padding: 10px;
+    margin-left: 7%;
     color: black;
-    padding: 15px 20px;
 }
-span{
+.line1{
     border-bottom: 2px solid orange;
-
+    padding-bottom: 12px;
+}
+.coat3{
+    background-color:gray ;
+    padding: 15px 19px;
+    font-size: 20px;
+    color: white;
+    border-radius: 7px;
+    position: relative;
+    cursor: pointer;  
+}
+.coat3:hover{
+    border: 4px solid orangered;
+}
+.coat4{
+    background-color: white;
+    margin-top: 5%;
+    width: 105%;
+    height: 450px;
+    color: black;
+}
+ .tt{
+    margin-top: -20%;
+    margin-left: 50%;
+}
+.gg3{
+    margin-left: 49%;
+    display: flex;
+    width: 60%;
+    padding: 19px 23px;
+}
+.text1{
+    margin-left: 53%;
+    color: black;
+    font-size: 20px;
+    margin-top:  -16%;
+}
+.text2{
+    margin-left: 53%;
+    color: black;
+    font-size: 15px;
+}
+.text3{
+    margin-left: 78%;
+    color: black;
+    font-size: 15px;
+    margin-top: -98px;
 }
 .coat5{
     background-image: url(../ibimages/oo.jpg);
